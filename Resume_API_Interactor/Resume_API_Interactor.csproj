@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\resume_MODELS\resume_MODELS.csproj" />
+    <ProjectReference Include="..\resume_REPOSITORY\resume_REPOSITORY.csproj" />
+  </ItemGroup>
+
+</Project>
